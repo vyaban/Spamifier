@@ -1,7 +1,7 @@
 # vyaban.github.io
 
-Website for a hackathon project at Bitcamp in 2017. 
+Notebook for CMSC320's final project in May 2017. 
 
-You enter a location, and it gives you a list of concerts in that area.
+It explains the complete data science pipeline from data collection, data processing, exploratory data analysis and visualization, machine learning and insight/policy decision. 
 
-Once you select a location, it generates a Spotify playlist of those artists for you.
+Site can be accessed at vyaban.github.io
