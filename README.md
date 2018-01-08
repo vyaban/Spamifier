@@ -1,4 +1,4 @@
-# vyaban.github.io
+# Spamifier
 
 Notebook for CMSC320's final project in May 2017. 
 
